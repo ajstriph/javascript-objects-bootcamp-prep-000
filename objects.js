@@ -6,6 +6,6 @@ var updatePlaylist = function (playlist, artistName, songTitle){
 }
 var removeFromPlaylist = function (playlist, artistName){
   playlist = {'Kanye': "Gold Digger"};
-  delete playlist.artistName;
+  delete playlist.'Kanye';
   return playlist;
 }
