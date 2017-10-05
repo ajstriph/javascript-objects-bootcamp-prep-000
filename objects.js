@@ -1,2 +1,1 @@
-const objects = 'playlist';
-var updatePlaylist = {[playlist]: artistName, songTitle};
+var playlist = {artistName: songTitle};
